@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Bini::Test::Subcommand::VERSION
   gem.authors       = ["Ernie Brodeur"]
   gem.email         = ["ebrodeur@ujami.net"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "A gem to facilitate testing bini."
+  gem.summary       = "Specifically, it is a functional 'subcommand' in the prefix/subcommand architecture."
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
