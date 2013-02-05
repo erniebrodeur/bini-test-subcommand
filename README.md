@@ -1,29 +1,9 @@
 # Bini::Test::Subcommand
 
-TODO: Write a gem description
+Nothing to see here, move along.
 
-## Installation
+In all seriousness, the subcommand part of bini is designed to have the commands wrapped in a gem.  This is a gem with a few fake commands, so I can test bini properly.
 
-Add this line to your application's Gemfile:
+There is literally, nothing to see here.
 
-    gem 'bini-test-subcommand'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bini-test-subcommand
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Move along :wink:
